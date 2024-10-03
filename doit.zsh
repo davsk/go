@@ -8,3 +8,8 @@
 
 # Twist
 twist -c twist.yml -o docs -readme
+
+# Deploy
+git add *
+git commit -a -m "Update"
+git push
