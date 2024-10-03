@@ -1,0 +1,8 @@
+godocfromsource: false
+packages:
+    github.com/davsk/frodo:
+        path: go.davsk.net/frodo
+        subpackages:
+            - subpackage1
+            - subpackage2
+        noreadme: false
