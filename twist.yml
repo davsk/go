@@ -6,3 +6,9 @@ packages:
             - subpackage1
             - subpackage2
         noreadme: false
+    github.com/davsk/universe.v5:
+        path: go.davsk.net/universe
+        subpackages:
+            - subpackage1
+            - subpackage2
+        noreadme: false
