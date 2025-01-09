@@ -3,8 +3,7 @@ packages:
     github.com/davsk/frodo:
         path: go.davsk.net/frodo
         subpackages:
-            - subpackage1
-            - subpackage2
+            - pkg/auto_update
         noreadme: false
     github.com/davsk/universe.v5:
         path: go.davsk.net/universe
@@ -12,3 +11,4 @@ packages:
             - subpackage1
             - subpackage2
         noreadme: false
+        
