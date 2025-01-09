@@ -4,8 +4,9 @@ This is a list of the **Go** packages from Davsk Ltd Co that are available to im
 ## Usage
 
 ### Prerequisites
+Installs the tool in your go/bin
 ``` zsh
-go get -u go.bobheadxi.dev/twist
+go install go.bobheadxi.dev/twist
 ```
 
 ### Edit the List
@@ -14,8 +15,10 @@ kate twist.yml
 ```
 
 ### Update the list
+Explicit path to disambiguate from another twist.
 ``` zsh
-twist -c twist.yml
+~/go/bin/twist -c twist.yml
+
 ```
 
 ### Verify the updates
