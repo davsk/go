@@ -3,7 +3,15 @@ packages:
     github.com/davsk/frodo:
         path: go.davsk.net/frodo
         subpackages:
+            - cmd/frodo
+            - cmd/frodo-cli
+            - cmd/frodo-con
+            - cmd/frodo-gui
             - pkg/auto_update
+            - pkg/config
+            - pkg/darwin
+            - pkg/windows
+            - pkg/linux
         noreadme: false
     github.com/davsk/universe.v5:
         path: go.davsk.net/universe
