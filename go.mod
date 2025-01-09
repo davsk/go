@@ -7,6 +7,6 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	go.bobheadxi.dev/twist v0.6.0 // indirect
-	golang.org/x/net v0.29.0 // indirect
+	golang.org/x/net v0.34.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
