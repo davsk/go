@@ -11,7 +11,7 @@ if [ ! -x $(whence -p twist) ]; then
    go install go.bobheadxi.dev/twist@latest
 fi
 
-twist -c twist.yml -o docs -readme
+~/go/bin/twist -c twist.yml -o docs -readme
 
 # Deploy
 git add *
