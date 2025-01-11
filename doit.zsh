@@ -15,5 +15,5 @@ twist -c twist.yml -o docs -readme
 
 # Deploy
 git add *
-git commit -a -m "Update"
+git commit -a -m "Update $( date '+%F_%H:%M:%S' )"
 git push
