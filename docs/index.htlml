@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>go.davsk.net</title>
+    <meta name="description"
+        content="go.davsk.net provides links for imports and documentation of davsk golang packages.">
+    <meta name="keywords" content="golang, pkg, GO, Davsk">
+    <meta name="author" content="David Lynn Skinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="https://go.davsk.net/" target="_blank">
+</head>
+
+<body>
+    <h1 id="go-davsk-net">go.davsk.net</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>PACKAGE</th>
+                <th>REFERENCE</th>
+                <th>SOURCE</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><code>go.davsk.net/frodo</code></td>
+                <td><a href="https://pkg.go.dev/github.com/davsk/frodo"><img
+                            src="https://pkg.go.dev/badge/github.com/davsk/frodo.svg" alt="Reference"></a></td>
+                <td><a href="https://github.com/davsk/frodo">github.com/davsk/frodo</a></td>
+            </tr>
+            <tr>
+                <td><code>go.davsk.net/universe</code></td>
+                <td><a href="https://pkg.go.dev/github.com/davsk/universe.v5"><img
+                            src="https://pkg.go.dev/badge/github.com/davsk/universe.v5.svg" alt="Reference"></a></td>
+                <td><a href="https://github.com/davsk/universe.v5">github.com/davsk/universe.v5</a></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <p>generated using <a href="https://go.bobheadxi.dev/twist">twist</a></p>
+</body>
+
+</html>
