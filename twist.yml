@@ -14,10 +14,10 @@ packages:
       - pkg/linux
       - pkg/install
       - pkg/update
-    noreadme: true
+    noreadme: false
   github.com/davsk/universe.v5:
     path: go.davsk.net/universe
     subpackages:
       - pkg/BackOffice
       - subpackage2
-    noreadme: true
+    noreadme: false
