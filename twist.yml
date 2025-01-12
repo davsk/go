@@ -18,6 +18,6 @@ packages:
   github.com/davsk/universe.v5:
     path: go.davsk.net/universe
     subpackages:
-      - subpackage1
+      - pkg/BackOffice
       - subpackage2
     noreadme: false
