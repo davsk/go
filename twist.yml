@@ -1,4 +1,4 @@
-godocfromsource: false
+godocfromsource: true
 packages:
   github.com/davsk/frodo:
     path: go.davsk.net/frodo
@@ -14,10 +14,10 @@ packages:
       - pkg/linux
       - pkg/install
       - pkg/update
-    noreadme: false
+    noreadme: true
   github.com/davsk/universe.v5:
     path: go.davsk.net/universe
     subpackages:
       - pkg/BackOffice
       - subpackage2
-    noreadme: false
+    noreadme: true
